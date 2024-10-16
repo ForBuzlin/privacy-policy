@@ -1,15 +1,19 @@
 BuzRyde Privacy Policy
 Effective Date: [16/10/2024]
 
+
 BuzRyde ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information when you use our app and services. By using BuzRyde, you consent to the practices described in this policy.
+
 
 1. Information We Collect
 We collect the following types of information to provide and improve our services:
+
 
 1.1 Personal Information
 Contact Details: Your name, phone number, email address, and home or work address.
 Account Information: Usernames, passwords, and profile data.
 Payment Information: Credit or debit card information and transaction details.
+
 1.2 Location Data
 We collect location data to provide essential services through the BuzRyde app. Here’s how we use your location data:
 
